@@ -3,9 +3,9 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatXuKun
 
-_🦌 网页小游戏 🥛_
+_网页小游戏_
 
 </div>
 
