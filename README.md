@@ -17,7 +17,7 @@ _网页小游戏_
 
 [Github Page](https://asankilp.github.io/EatXuKun)
 |
-[源仓库](https://github.com/arcxingye/EatKano)
+[原版仓库](https://github.com/arcxingye/EatKano)
 
 ## 可选功能
 
