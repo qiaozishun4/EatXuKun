@@ -29,7 +29,7 @@
             <div id="GameScoreLayer-bast">最佳</div>
             <button type="button" class="btn btn-secondary btn-lg" onclick="replayBtn()">重来</button>
 			<button type="button" class="btn btn-secondary btn-lg" onclick="goRank();">排行</button>
-            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/arcxingye/EatKano'">开源</button>
+            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/Asankilp/EatXuKun'">开源</button>
         </div>
     </div>
     </div>
